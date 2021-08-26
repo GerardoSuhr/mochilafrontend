@@ -71,11 +71,11 @@ justify-content: space-between;
         }
 
 .low-banner h2::before {
-           content: url('/img/Cat.png')
+           content: url('../img/Cat.png')
     
 }
 .low-banner h2::after {
-    content: url('/img/Dog.png')
+    content: url('../img/Dog.png')
 }
 
 .low-banner h2 span {color:#3C2313}
@@ -98,7 +98,7 @@ letter-spacing: 0em;
 }
 
 .low-banner ul li::before{
-    content: url('/img/paw.png')
+    content: url('../img/paw.png')
 }
 
 
@@ -423,11 +423,11 @@ color: #F0A83E;
 }
 
 .footer-middle h2::before {
-    content: url('/img/Cat.png')
+    content: url('../img/Cat.png')
 }
 
 .footer-middle h2::after {
-    content: url('/img/Dog.png')
+    content: url('../img/Dog.png')
 }
 
 /* Footer Bottom*/
