@@ -57,6 +57,7 @@ h1 span {
     background-image: url('../img/fondolowbanner.png');
     justify-content: space-around;
     align-items: center;
+    background-size: cover;
 }
 .lowbanner h2 {
     color: #F3F3F3;
